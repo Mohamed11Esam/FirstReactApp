@@ -14,7 +14,7 @@ let router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: "about", element: <About /> },
-      { path: "FirstReacApp", element: <Layout /> },
+      { path: "FirstReacApp/", element: <Layout /> },
       { path: "portfolio", element: <Portfolio /> },
       { path: "contact", element: <Contact /> },
       { path: "*", element: <NotFound /> },
