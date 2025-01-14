@@ -9,7 +9,7 @@ import Home from "./components/Home/Home";
 
 let router = createBrowserRouter([
   {
-    path: "",
+    path: "FirstReactApp",
     element: <Layout />,
     children: [
       { index: true, element: <Home /> },
