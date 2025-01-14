@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --main-color: #1abc9c;
+  --secondery-color: #2c3e50;
+}
+.active {
+  background-color: var(--main-color);
+  border-radius: 10px;
+}
+
+.sec_color {
+  color: var(--secondery-color);
+}
