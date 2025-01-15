@@ -2,7 +2,7 @@
   "name": "firstframework",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Mohamed11Esam.github.io/reactFirst",
+  "homepage": "https://Mohamed11Esam.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
